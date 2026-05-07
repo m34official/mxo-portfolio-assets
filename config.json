@@ -1,7 +1,7 @@
 {
-  "tools": ["Cinema 4D", "After Effects"],
-  "project_types": ["Illustration", "Video"],
-  "preview_types": ["Image", "Video"],
+  "tools": ["After Effects", "Illustrator", "Photoshop", "Premiere Pro"],
+  "project_types": ["Illustration", "Video", "Audio"],
+  "preview_types": ["Image", "Video", "Music"],
   "licenses": ["Free", "Commercial"],
-  "clients": ["Genesis", "Personal"]
+  "clients": ["Genesis", "Personal", "Sony Plus", "World IT Ltd", "ByIcon", "Fuad Badhon"]
 }
