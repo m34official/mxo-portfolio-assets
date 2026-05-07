@@ -1,8 +1,7 @@
-[{
-  "tools": ["Cinema 4D", "After Effects", "Premiere Pro", "Photoshop", "Illustrator"],
-  "project_types": ["Illustration", "Video Editing", "Manipulation"],
-  "preview_types": ["Image", "Video", "Audio"],
+{
+  "tools": ["Cinema 4D", "After Effects"],
+  "project_types": ["Illustration", "Video"],
+  "preview_types": ["Image", "Video"],
   "licenses": ["Free", "Commercial"],
-  "clients": ["Genesis", "TechLand BD", "Personal"]
+  "clients": ["Genesis", "Personal"]
 }
-]
