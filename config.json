@@ -1,7 +1,36 @@
 {
-  "tools": ["After Effects", "Illustrator", "Photoshop", "Premiere Pro"],
-  "project_types": ["Illustration", "Video", "Audio"],
-  "preview_types": ["Image", "Video", "Music"],
-  "licenses": ["Free", "Commercial"],
-  "clients": ["Genesis", "Personal", "Sony Plus", "World IT Ltd", "ByIcon", "Fuad Badhon"]
+  "app": {
+    "version": "may_alpha_0.1",
+    "min_version": "may_alpha_0.1",
+    "force_update_message": "A new version is required. Contact your admin."
+  },
+  "members": [],
+  "tools": [
+    "After Effects",
+    "Illustrator",
+    "Photoshop",
+    "Premiere Pro"
+  ],
+  "project_types": [
+    "Illustration",
+    "Video",
+    "Audio"
+  ],
+  "preview_types": [
+    "Image",
+    "Video",
+    "Music"
+  ],
+  "licenses": [
+    "Free",
+    "Commercial"
+  ],
+  "clients": [
+    "Genesis",
+    "Personal",
+    "Sony Plus",
+    "World IT Ltd",
+    "ByIcon",
+    "Fuad Badhon"
+  ]
 }
