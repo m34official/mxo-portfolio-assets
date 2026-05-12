@@ -32,6 +32,7 @@
     ],
     "licenses": [
         "Free",
+        "Personal",
         "Commercial"
     ],
     "resource_types": [
@@ -57,6 +58,26 @@
         "Female Fashion",
         "Music Producer",
         "Brand",
-        "Filmmaker"
+        "Filmmaker",
+        "Content Creator",
+        "E-commerce Store",
+        "Tech Startup",
+        "Real Estate Agency",
+        "Non-Profit Organization",
+        "Event Planner",
+        "Public Speaker",
+        "Course Creator",
+        "Esports Team",
+        "SaaS Company",
+        "DTC Brand",
+        "Solopreneur",
+        "Creative Technologist",
+        "Hospitality Group",
+        "Boutique Hotel",
+        "AI Startup",
+        "Educational Institution",
+        "App Developer",
+        "Venture Capital Firm",
+        "Lifestyle Brand"
     ]
 }
