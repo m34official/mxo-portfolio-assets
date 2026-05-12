@@ -1,1 +1,38 @@
-[{"id":"1778565878346","name":"Genesis","category":"Medical Orientation Center","passion":"FCPS/MD/MS/Diploma/ Basic যাই হোকনা কেন ,জেনেসিসের একমাত্র লক্ষ্য সফলতা।","logo_url":"https://raw.githubusercontent.com/m34official/mxo-portfolio-assets/main/assets/clients/logos/Genesis.png","photo_url":"","social":{"instagram":"https://www.facebook.com/genesispgentrance","youtube":"https://www.youtube.com/@genesiscentre460","website":"https://genesisedu.info/"},"added_by":{"username":"MERAJXO","role":"Owner"},"added_at":"2026-05-12"},{"id":"1778566269927","name":"ShajShiri","category":"Brand","passion":"","logo_url":"https://raw.githubusercontent.com/m34official/mxo-portfolio-assets/main/assets/clients/logos/ShajShiri.png","photo_url":"","social":{"instagram":"https://www.instagram.com/shaj_shiri","youtube":"https://www.facebook.com/shajshiri","website":"https://shajshiribd.com/"},"added_by":{"username":"MERAJXO","role":"Owner"},"added_at":"2026-05-12"}]
+[
+  {
+    "id": "1778565878346",
+    "name": "Genesis",
+    "category": "Medical Orientation Center",
+    "passion": "FCPS/MD/MS/Diploma/ Basic যাই হোকনা কেন ,জেনেসিসের একমাত্র লক্ষ্য সফলতা।",
+    "logo_url": "https://raw.githubusercontent.com/m34official/mxo-portfolio-assets/main/assets/clients/logos/Genesis.png",
+    "photo_url": "",
+    "social": {
+      "instagram": "https://www.facebook.com/genesispgentrance",
+      "youtube": "https://www.youtube.com/@genesiscentre460",
+      "website": "https://genesisedu.info/"
+    },
+    "added_by": {
+      "username": "MERAJXO",
+      "role": "Owner"
+    },
+    "added_at": "2026-05-12"
+  },
+  {
+    "id": "1778566269927",
+    "name": "ShajShiri",
+    "category": "Female Fashion",
+    "passion": "",
+    "logo_url": "https://raw.githubusercontent.com/m34official/mxo-portfolio-assets/main/assets/clients/logos/ShajShiri.png",
+    "photo_url": "",
+    "social": {
+      "instagram": "https://www.instagram.com/shaj_shiri",
+      "youtube": "https://www.facebook.com/shajshiri",
+      "website": "https://shajshiribd.com/"
+    },
+    "added_by": {
+      "username": "MERAJXO",
+      "role": "Owner"
+    },
+    "added_at": "2026-05-12"
+  }
+]
