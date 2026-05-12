@@ -48,14 +48,15 @@
         "OTHER"
     ],
     "client_categories": [
-        "Music Producer",
-        "Brand",
-        "Filmmaker",
         "Photographer",
         "Agency",
         "Individual",
         "Publisher",
         "Alumni",
-        "Medical Orientation Center"
+        "Medical Orientation Center",
+        "Female Fashion",
+        "Music Producer",
+        "Brand",
+        "Filmmaker"
     ]
 }
