@@ -18,7 +18,12 @@
         "After Effects",
         "Illustrator",
         "Photoshop",
-        "Premiere Pro"
+        "Premiere Pro",
+        "Cinema 4D",
+        "Blender",
+        "FL Studio",
+        "Canva"
+
     ],
     "project_types": [
         "Illustration",
@@ -36,6 +41,7 @@
         "Commercial"
     ],
     "resource_types": [
+        "portfolio",
         "project",
         "stock"
     ],
@@ -49,6 +55,11 @@
         "OTHER"
     ],
     "client_categories": [
+        "Graphic Designer",
+        "Video Editor",
+        "Motion Designer",
+        "3D Artist",
+        "Digital Marketer",
         "Photographer",
         "Agency",
         "Individual",
